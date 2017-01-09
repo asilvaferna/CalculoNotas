@@ -10,7 +10,7 @@ package notas;
  * @author Adri
  */
 public class Actividades {
-
+//Mod Fork
     public static int actividades(int nActividades) {
         if (nActividades == 12) {
             return 2;
