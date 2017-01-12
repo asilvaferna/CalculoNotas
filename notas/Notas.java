@@ -28,5 +28,5 @@ public class Notas {
         JOptionPane.showMessageDialog(null, "La nota final es: " + total);
 
     }
-
+//Mod fork 2
 }
