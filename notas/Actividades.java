@@ -19,7 +19,7 @@ public class Actividades {
         } else {
             return 0;
             
-            //nuevo cambio
+            //introduccion variables
         }
     }
 }
