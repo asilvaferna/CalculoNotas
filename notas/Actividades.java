@@ -18,6 +18,8 @@ public class Actividades {
             return 1;
         } else {
             return 0;
+            
+            //introduccion variables y creo nuevo proyecto
         }
     }
 }
